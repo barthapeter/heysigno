@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HeySigno</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: system-ui, sans-serif;
+      background: #fafafa;
+      color: #222;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    p {
+      font-size: 1.1rem;
+      max-width: 400px;
+    }
+    footer {
+      position: absolute;
+      bottom: 1.5rem;
+      font-size: 0.85rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <h1>HeySigno</h1>
+  <p>A hello that opens doors.<br>Stay tuned — something exciting is coming soon.</p>
+  <footer>© 2025 HeySigno</footer>
+</body>
+</html>
